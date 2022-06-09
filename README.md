@@ -20,6 +20,6 @@
 <div>
   <a href="mailto:sobral.lucioj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"></a>
   <a href="www.linkedin.com/in/lucio-analytics-data-science"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
-
-  ![Snake animation](https://github.com/luciodatascience/luciodatascience/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+ ![Snake animation](https://github.com/luciodatascience/luciodatascience/blob/output/github-contribution-grid-snake.svg)
